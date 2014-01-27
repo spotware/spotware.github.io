@@ -1,0 +1,137 @@
+[
+    {
+        "filename": "intro.html",
+        "attr": {
+            "data-background": "images/devices.jpg",
+            "data-state": "somestate"
+        }
+    },
+    [
+        "retina/common.html",
+        {
+            "attr": {
+                "data-background": "images/retina/iphone.png",
+                "id": "retina-iphone"
+            }
+        },
+        {
+            "attr": {
+                "data-background": "images/retina/ipad.png",
+                "id": "retina-ipad"
+            }
+        },
+        {
+            "attr": {
+                "data-background": "images/retina/login-screen.png",
+                "id": "retina-login-screen"
+            }
+        }
+    ],
+    {
+        "filename": "volume.html",
+        "attr": {
+            "data-state": "volume-slide"
+        }
+    },
+    [
+        "ios/app-store.html",
+        {
+            "filename": "ios/downloads.html",
+            "attr": {
+                "id": "ios-downloads"
+            }
+        }
+    ],
+    [
+        "optimizations/common.html",
+        {
+            "filename": "optimizations/local-storage.html",
+            "attr": {
+                "data-state": "local-storage-slide",
+                "id": "optimizations-local-storage"
+            }
+        },
+        {
+            "filename": "optimizations/gzip.html",
+            "attr": {
+                "data-state": "gzip-slide",
+                "id": "optimizations-gzip"
+            }
+        },
+        {
+            "filename": "optimizations/sprites.html",
+            "attr": {
+                "data-state": "sprites-slide",
+                "id": "optimizations-sprites"
+            }
+        },
+        {
+            "filename": "optimizations/image-min.html",
+            "attr": {
+                "data-state": "image-min-slide",
+                "id": "optimizations-image-min"
+            }
+        },
+        {
+            "filename": "optimizations/dom.html",
+            "attr": {
+                "data-state": "dom-slide",
+                "id": "optimizations-dom"
+            }
+        },
+        {
+            "filename": "optimizations/indexedDB.html",
+            "attr": {
+                "data-state": "indexedDB-slide",
+                "id": "optimizations-indexedDB"
+            }
+        }
+    ],
+    {
+        "filename": "visits.html",
+        "attr": {
+            "data-state": "visits-slide"
+        }
+    },
+    {
+        "filename": "engagement.html",
+        "attr": {
+            "data-state": "engagement-slide"
+        }
+    },
+    [
+        {
+            "filename": "videos/common.html",
+            "attr": {
+                "data-transition": "zoom",
+                "data-transition-speed": "fast"
+            }
+        },
+        {
+            "filename": "videos/video1.html",
+            "attr": {
+                "data-transition": "zoom",
+                "data-transition-speed": "fast",
+                "id": "video1"
+            }
+        },
+        {
+            "filename": "videos/video2.html",
+            "attr": {
+                "data-transition": "zoom",
+                "data-transition-speed": "fast",
+                "id": "video2"
+            }
+        },
+        {
+            "filename": "videos/video3.html",
+            "attr": {
+                "data-transition": "zoom",
+                "data-transition-speed": "fast",
+                "id": "video3"
+            }
+        }
+    ],
+    "plans.html",
+    "thank-you.html"
+]
