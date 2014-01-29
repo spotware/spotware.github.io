@@ -40,14 +40,12 @@
     {
         "filename": "ios/app-store.html",
         "attr": {
-            "id": "ios-downloads",
             "data-transition": "concave"
         }
     },
     {
         "filename": "ios/downloads.html",
         "attr": {
-            "id": "ios-downloads",
             "data-transition": "concave"
         }
     },
