@@ -114,7 +114,7 @@
             "data-transition": "fade"
         }
     },
-    "videos/common.html",
+    "video.html",
     {
         "filename": "plans.html",
         "attr": {
